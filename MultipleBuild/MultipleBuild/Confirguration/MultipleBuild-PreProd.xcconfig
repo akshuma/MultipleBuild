@@ -1,0 +1,18 @@
+//
+//  MultipleBuild-PreProd.xcconfig
+//  MultipleBuild
+//
+//  Created by Akshuma Trivedi on 29/08/20.
+//  Copyright © 2020 Akshuma Trivedi. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SERVER_END_POINT = preprod.multiple.co.in
+SUBSCRIPTION_KEY = 341089f0f65f48fab02bca31cd034672
+BASE_KEY = preprod
+ACCESS_CODE = AVHW03HG32CE86WHEC
+MERCHANT_ID = 264808
+END_POINT = api-inv-de-si-01.azure-api.net/paymentDev
+PAYMENT_ENDPOINT = test.payment.com/transaction/initTrans
