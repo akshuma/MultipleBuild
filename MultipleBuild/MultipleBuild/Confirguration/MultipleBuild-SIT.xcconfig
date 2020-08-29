@@ -1,0 +1,18 @@
+//
+//  MultipleBuild-SIT.xcconfig
+//  MultipleBuild
+//
+//  Created by Akshuma Trivedi on 29/08/20.
+//  Copyright © 2020 Akshuma Trivedi. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SERVER_END_POINT = tdl-wi-app.azure-api.net
+SUBSCRIPTION_KEY = d706fd98433c41bcaf5bb8470bf29a01
+BASE_KEY = SIT
+ACCESS_CODE = AVHW03HG32CE86WHEC
+MERCHANT_ID = 264808
+END_POINT = api-tdinv-de-si-01.azure-api.net/paymentDev
+PAYMENT_ENDPOINT = test.payment.com/transaction/initTrans
